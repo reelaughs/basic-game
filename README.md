@@ -1,2 +1,2 @@
 # basic-game
-A simple number guessing game featuring the basics
+A simple number guessing game featuring some very basic Python 
